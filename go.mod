@@ -2,6 +2,8 @@ module github.com/open-policy-agent/opa
 
 go 1.24.6
 
+toolchain go1.26.2
+
 require (
 	github.com/agnivade/levenshtein v1.2.1
 	github.com/bytecodealliance/wasmtime-go/v39 v39.0.1
