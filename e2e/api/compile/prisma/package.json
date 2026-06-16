@@ -14,5 +14,10 @@
   },
   "devDependencies": {
     "prisma": "^6.19.0"
+  },
+  "overrides": {
+    "prisma": {
+      "effect": "^3.21.3"
+    }
   }
 }
